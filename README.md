@@ -1,0 +1,1 @@
+Submission project for Java course. 
